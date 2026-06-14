@@ -1,3 +1,8 @@
+## Architecture Diagram
+
+![Architecture Diagram](docs/architecture_diagram.png)
+
+
 # Insurance Claims Data Engineering Project
 
 ## Project Overview
